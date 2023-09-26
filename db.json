@@ -11,6 +11,30 @@
             "nome": "Harpa Cristã",
             "descricao": "Louvores da harpa Cristã",
             "cor": "#00C86F"
+        },
+        {   
+            "id" : 3,
+            "nome": "Cifras Louvor",
+            "descricao": "Cifras de Louvores",
+            "cor": "#9cd33b"
+        },
+        {   
+            "id" : 4,
+            "nome": "Cifras Harpa Cristã",
+            "descricao": "Cifras da harpa Cristã",
+            "cor": "orange"
+        },
+        {   
+            "id" : 5,
+            "nome": "Pregações",
+            "descricao": "Pregações",
+            "cor": "red"
+        },
+        {   
+            "id" : 6,
+            "nome": "Podcasts",
+            "descricao": "Podcasts",
+            "cor": "#6b5be2"
         }
     ]
 
