@@ -2,37 +2,37 @@
     "categorias": [
         {
             "id": 1,
-            "nome": "Louvores",
+            "titulo": "Louvores",
             "descricao": "Lista de louvores",
             "cor": "#6BD1FF"
         },
         {
             "id": 2,
-            "nome": "Harpa Cristã",
+            "titulo": "Harpa Cristã",
             "descricao": "Louvores da harpa Cristã",
             "cor": "#00C86F"
         },
         {
             "id": 3,
-            "nome": "Cifras Louvor",
+            "titulo": "Cifras Louvor",
             "descricao": "Cifras de Louvores",
             "cor": "#9cd33b"
         },
         {
             "id": 4,
-            "nome": "Cifras Harpa Cristã",
+            "titulo": "Cifras Harpa Cristã",
             "descricao": "Cifras da harpa Cristã",
             "cor": "orange"
         },
         {
             "id": 5,
-            "nome": "Pregações",
+            "titulo": "Pregações",
             "descricao": "Pregações",
             "cor": "red"
         },
         {
             "id": 6,
-            "nome": "Podcasts",
+            "titulo": "Podcasts",
             "descricao": "Podcasts",
             "cor": "#6b5be2"
         }
@@ -212,6 +212,7 @@
             "titulo": "BRUNÃO MORADA - JesusCopy Podcast #25",
             "url": "https://www.youtube.com/watch?v=NbQxAZ7aGQE"
         },
+        
         {
             "id": 30,
             "categoriaId": 6,
